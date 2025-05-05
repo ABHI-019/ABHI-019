@@ -95,7 +95,7 @@
 
   <h2>📊 GitHub Stats</h2>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&area=true" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHI-019&theme=react-dark&area=true" alt="activity graph" />
   </div>
 
   <hr>
