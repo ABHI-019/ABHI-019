@@ -11,7 +11,7 @@
 
 <h2>📄 Resume</h2>
 <div class="resume-button" style="display: inline-block; margin-right: 20px;">
-  <a href="https://drive.google.com/file/d/your-resume-link/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1hwXu1atWFMFGCqwB7e6r0NDB7VScpMuo/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive" alt="Resume" />
   </a>
 </div>
