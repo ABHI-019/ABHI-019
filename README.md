@@ -19,7 +19,7 @@
 <h2>👍 Coding Profiles</h2>
 <div class="coding-profiles" style="display: inline-block;">
   <div class="profiles-button" style="display: inline-block; margin-left: 20px;">
-    <a href="https://leetcode.com/your-username" target="_blank">
+    <a href="https://leetcode.com/u/ABHI_019/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
     </a>
   </div>
