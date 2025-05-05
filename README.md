@@ -102,10 +102,10 @@
 
   <h2>🌐 Let's Connect</h2>
   <div align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/abhishek-raj-689112264/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
     </a>
-    <a href="https://github.com/your-github" target="_blank">
+    <a href="https://github.com/ABHI-019" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
     </a>
     <a href="mailto:araj17606@gmail.com">
